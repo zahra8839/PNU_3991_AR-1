@@ -3,7 +3,7 @@
 ### محمدمهدی اکبری
  
 ---
-- [PNU_3991_AR](https://github.com/crzboy/PNU_3991_AR)
+- [PNU_3991_AR](https://crzboy.github.io/PNU_3991_AR/)
 - [English Resume](https://crzboy.github.io/Resume/)
 - [Persian Resume](https://crzboy.github.io/Resume/Mohamad%20Mahid%20Akbari-fa%20resume.html/Mohamad%20Mahid%20Akbari-fa%20resume.html)
 - [SOP](https://crzboy.github.io/SOP/)
