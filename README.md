@@ -4,14 +4,11 @@
  
 ---
 - [حساب گیت هاب](https://github.com/crzboy)
-
-- [رزومه](https://crzboy.github.io/)
-
+- [رزومه انگلیسی](https://crzboy.github.io/)
+- [رزومه فارسی](https://crzboy.github.io/Resume/Mohamad%20Mahid%20Akbari-fa%20resume.html/Mohamad%20Mahid%20Akbari-fa%20resume.html)
 - [SOP](https://crzboy.github.io/SOP)
 
 ------------------
-## Winter Semester Courses 1399/2020
-
 ## دروس کارشناسی
 [1322010_02  روش_پژوهش_و_ارائه	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 
@@ -79,7 +76,6 @@
 </table>
 ---------------
 <br>
-- G-U02
 <br>
     1. [محمد سرمست]()
     <br>
