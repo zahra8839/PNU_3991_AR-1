@@ -86,7 +86,7 @@
     <br>
    2. [محمدمهدی اکبری](https://crzboy.github.io/PNU_3991_AR/) 
     <br>
-   3. [رضوانه نورزائی]()
+   3. [رضوانه نورزائی](https://github.com/rezvaneh77/PNU_3991_ARR/)
     <br>
    4. [امین توکلی]()
     <br>
