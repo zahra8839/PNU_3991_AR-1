@@ -39,8 +39,8 @@
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
-  </tr>
-   <tr>
+  </tr><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/
+">روش_پژوهش_و_ارائه</a><tr>
     <th ></th>
     <th ></th>
     <th ></th>
@@ -52,8 +52,7 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/
-">روش_پژوهش_و_ارائه</a></th>
+    <th></th>
     <th ></th>
     <th>سه شنبه</th>
   </tr>
