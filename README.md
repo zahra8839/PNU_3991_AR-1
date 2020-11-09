@@ -7,7 +7,7 @@
 - [English Resume](https://crzboy.github.io/)
 - [Persian Resume](https://crzboy.github.io/Mohamad%20Mahid%20Akbari-fa%20resume.html/Mohamad%20Mahid%20Akbari-fa%20resume.html)
 - [SOP](https://crzboy.github.io/SOP/)
-- [GitHub](https://crzboy.github.io/)
+- [GitHub](https://github.com/crzboy)
 ------------------
 ## دروس کارشناسی
 [1322010_02  روش_پژوهش_و_ارائه	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02)
