@@ -9,6 +9,7 @@
 - [Persian Resume](https://crzboy.github.io/Resume/Mohamad%20Mahid%20Akbari-fa%20resume.html/Mohamad%20Mahid%20Akbari-fa%20resume.html)
 - [SOP](https://crzboy.github.io/SOP/)
 - [Patchwork](https://github.com/crzboy/patchwork)
+- [Certificates](https://github.com/crzboy/Certificates)
 
 
 ------------------
