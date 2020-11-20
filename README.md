@@ -48,7 +48,7 @@
  <tr>
     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/
 ">روش_پژوهش_و_ارائه</a></th>
-    <th ></th>
+    <th ><a> مهندسی_نرم_افزار_1 </a></th></th>
     <th ></th>
     <th></th>
     <th ></th>   
@@ -56,14 +56,14 @@
   </tr>
    <tr>
     <th ></th>
-    <th ></th>
+    <th ><a> سیستم_های_عامل </a></th></th>
     <th></th>
     <th></th>
-    <th ></th>
+    <th ><a> جبرخطی_کاربردی </a></th></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th ><a> آمار_و_احتمالات_مهندسی </a></th></th>
     <th ></th>
     <th></th>
     <th></th>
