@@ -10,6 +10,7 @@
 - [SOP](https://crzboy.github.io/SOP/)
 - [Patchwork](https://github.com/crzboy/patchwork)
 - [Certificates](https://crzboy.github.io/Certificates/)
+- [Latex Pages](https://github.com/crzboy/Latex_page)
 
 
 ------------------
